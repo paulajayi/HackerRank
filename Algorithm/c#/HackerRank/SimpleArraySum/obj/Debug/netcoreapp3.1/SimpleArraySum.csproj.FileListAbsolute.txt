@@ -1,0 +1,13 @@
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.exe
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.deps.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.dev.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.dll
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.pdb
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.csprojAssemblyReference.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfo.cs
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.dll
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.pdb
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.genruntimeconfig.cache

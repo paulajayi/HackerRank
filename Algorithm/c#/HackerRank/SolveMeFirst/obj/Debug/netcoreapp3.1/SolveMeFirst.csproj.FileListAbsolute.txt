@@ -1,0 +1,13 @@
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.exe
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.deps.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.runtimeconfig.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.runtimeconfig.dev.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.dll
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\bin\Debug\netcoreapp3.1\SolveMeFirst.pdb
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.csprojAssemblyReference.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.AssemblyInfo.cs
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.dll
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.pdb
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\SolveMeFirst\obj\Debug\netcoreapp3.1\SolveMeFirst.genruntimeconfig.cache

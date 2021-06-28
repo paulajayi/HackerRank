@@ -1,0 +1,13 @@
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\bin\Debug\netcoreapp3.1\CompareTheTriplets.exe
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\bin\Debug\netcoreapp3.1\CompareTheTriplets.deps.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\bin\Debug\netcoreapp3.1\CompareTheTriplets.runtimeconfig.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\bin\Debug\netcoreapp3.1\CompareTheTriplets.runtimeconfig.dev.json
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\bin\Debug\netcoreapp3.1\CompareTheTriplets.dll
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\bin\Debug\netcoreapp3.1\CompareTheTriplets.pdb
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\obj\Debug\netcoreapp3.1\CompareTheTriplets.csprojAssemblyReference.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\obj\Debug\netcoreapp3.1\CompareTheTriplets.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\obj\Debug\netcoreapp3.1\CompareTheTriplets.AssemblyInfo.cs
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\obj\Debug\netcoreapp3.1\CompareTheTriplets.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\obj\Debug\netcoreapp3.1\CompareTheTriplets.dll
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\obj\Debug\netcoreapp3.1\CompareTheTriplets.pdb
+C:\Users\Paul\OneDrive - The Elevation Church\Documents\Hackerrank\Algorithm\c#\HackerRank\CompareTheTriplets\obj\Debug\netcoreapp3.1\CompareTheTriplets.genruntimeconfig.cache
